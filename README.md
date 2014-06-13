@@ -1,18 +1,6 @@
-Localizzazione Italiana di odoo
-===============================
+odoo Italian localization
+=========================
 
-Repository dei moduli di localizzazione italiana, gestiti dell'Associazione
-OpenERP Italia (odoo Italia)
+Please refer to the [official OCA repository](https://github.com/OCA/italy)
 
-
-I branch
---------
-
-Il branch master contiene gli sviluppi dei moduli per le versioni future di odoo.
-
-Il branch 8.0 contiene i moduli stabili per la versione 8 di odoo.
-
-I moduli per la versione 7 e precedenti vengono mantenuti su launchpad, nel
-progetto [OpenERP Italia](https://launchpad.net/openobject-italia)
-
-Qualunque modifica ai branch ufficiali dovrà essere fatta tramite pull request
+More info about The Odoo Community Association: http://odoo-community-association.org/
